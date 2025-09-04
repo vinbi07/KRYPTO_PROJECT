@@ -9,7 +9,7 @@ Capstone Project for CSCE 4901
 - Joshua Shapiro [@klaviette](https://github.com/klaviette)
 - Sarah Lawton [@srah-law](https://github.com/srah-law)
 - Jacob Pavlick [@Jankosta](https://github.com/Jankosta)
-- Daniel Garcia [@username](https://www.github.com/username)
+- Daniel Garcia [@DanielGar12](https://www.github.com/DanielGar12)
 - Joey Ryan Suliguin [@vinbi](https://github.com/vinbi07e)
 
 ## Acknowledgemnts
